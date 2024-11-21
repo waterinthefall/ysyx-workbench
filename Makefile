@@ -1,5 +1,5 @@
 STUID = ysyx_3210105152
-STUNAME = WYC 
+STUNAME = WangYicheng 
 
 # DO NOT modify the following code!!!
 
